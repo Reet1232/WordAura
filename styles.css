@@ -17,8 +17,8 @@ body {
 }
 
 .chatbox {
-    width: 420px;
-    height: 600px;
+    width: 400px;
+    height: 800px;
     background: rgba(255, 255, 255, 0.1); /* Semi-transparent background */
     backdrop-filter: blur(10px); /* Glassmorphism effect */
     border-radius: 10px;
